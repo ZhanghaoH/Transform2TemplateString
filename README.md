@@ -1,0 +1,2 @@
+# Transform2TemplateString
+将正常拼接的字符串或者加入${variableName}的普通字符串转换成ES6模板字符串
